@@ -1,5 +1,3 @@
-
-Hands-on IT and GRC portfolio: Microsoft Entra ID labs and a self-directed governance, risk &amp; compliance project, built while pivoting into IT/cybersecurity.
 # Jonathon Allen — IT & GRC Portfolio
 
 Hands-on IT and governance, risk, and compliance (GRC) portfolio, built while pivoting into IT/cybersecurity from a background in higher education leadership and compliance.
